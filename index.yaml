@@ -4,7 +4,7 @@ entries:
   - apiVersion: v2
     appVersion: 0.1.0
     created: "2022-05-09T15:14:22.593524748Z"
-    description: A Helm chart for Kubernetes
+    description: Install amazonlinux base image deployment for troubleshooting
     digest: c2368da7324eb80f20db8b1bef2580f01c22444ea0346b2c8476f430cc442c0a
     name: k8s-amazonlinux
     type: application
